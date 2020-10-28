@@ -1,3 +1,2 @@
 nltk
-random
 textwrap
