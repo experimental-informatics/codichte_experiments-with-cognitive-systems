@@ -25,6 +25,8 @@ Sowohl die modernistische Poesie als auch die moderne Neurowissenschaft entdeckt
 
 Auch wenn Künstliche Neuronale Netze in diesem Seminar nicht im Zentrum unserer Auseinandersetzung stehen, betrachten wir diese – allerdings in einem größeren Zusammenhang – als kognitives System unter anderen kognitiven Systemen. Da wir uns in einzelnen Sessions tiefer in die syntaktischen und semantischen Räume dieser kognitiven Systeme begeben werden, sind Programmierkenntnisse zur Teilnahme am Seminar zwar hilfreich aber nicht erforderlich. 
 
+---
+
 ## Info 
 
 **Seminar Wiki Pages:**
@@ -34,6 +36,8 @@ Auch wenn Künstliche Neuronale Netze in diesem Seminar nicht im Zentrum unserer
 **Executing the Notebooks:**
 
 - *You can run, execute and work on the following Notebooks here:* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/experimental-informatics/codichte/master)
+
+---
 
 ## Setting Up
 
