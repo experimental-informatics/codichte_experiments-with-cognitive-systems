@@ -39,7 +39,7 @@ Auch wenn Künstliche Neuronale Netze in diesem Seminar nicht im Zentrum unserer
 
 ---
 
-## Setting Up
+## Setting Up on your machine
 
 **Basics in Anaconda & Jupyter Notebooks:**
 
