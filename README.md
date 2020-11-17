@@ -49,9 +49,11 @@ Auch wenn Künstliche Neuronale Netze in diesem Seminar nicht im Zentrum unserer
 
 ## Notebooks:
 
-[tristan-tzara.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/tristan-tzara.ipynb) Cut-Up Machine á la Tristan Tzara
+[tristan-tzara.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/tristan-tzara.ipynb) < Cut-Up Machine á la Tristan Tzara
 
 [Gertrude-Stein-on-NLP.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/Gertrude-Stein-on-NLP.ipynb) < Tokenizer á la Gertrude Stein
+
+[beatnik-tokenizer.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/beatnik-tokenizer.ipynb) < [Beatnik](https://exmediawiki.khm.de/exmediawiki/index.php/Beatnik)- Tokenizer & little helper to write Beatnik-Code...
 
 ---
 
