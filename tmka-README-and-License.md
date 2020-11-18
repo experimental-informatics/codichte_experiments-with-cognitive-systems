@@ -20,7 +20,7 @@ DEPENDENCIES
 
     you have to preinstall the following dependencies:
     
-    an - Anagram generator >> download the tarball: http://fatphil.org/words/an.html
+    	an - Anagram generator >> download the tarball: http://fatphil.org/words/an.html
               if you run on Ubuntu or Debian, you can install it with apt-get:	
 
 `$ sudo apt-get install an`  
@@ -28,16 +28,16 @@ DEPENDENCIES
     normally the following tools are already installed on your Linux,
         if not, you can easilly install it with your package-manager >>	apt-get f.ex.
                
-         	ImageMagick			- software suite to create, edit, compose, or convert images
-           	 cut				- remove sections from each line of files
-             sed				- stream editor for filtering and transforming text
-             pv					- monitor the progress of data through a pipe
-    		vim-common 			- for using the command xxd
-    		bsdmainutils 		 - for using the command hd
-             poppler-utils 		  - for using the command pdftotext
-             libnotify-bin 		  - for using the command notify-send
+         ImageMagick			- software suite to create, edit, compose, or convert images
+         cut				- remove sections from each line of files
+         sed				- stream editor for filtering and transforming text
+         pv					- monitor the progress of data through a pipe
+    	 vim-common 			- for using the command xxd
+    	 bsdmainutils 		 - for using the command hd
+         poppler-utils 		  - for using the command pdftotext
+         libnotify-bin 		  - for using the command notify-send
        
-        or just copy the following line, paste it into your Terminal, and see what happens ^_*:
+       or just copy the following line, paste it into your Terminal, and see what happens ^_*:
 
 `$ sudo apt-get install an bsdmainutils pv vim-common libnotify-bin poppler-utils imagemagick`
 
