@@ -55,6 +55,8 @@ Auch wenn Künstliche Neuronale Netze in diesem Seminar nicht im Zentrum unserer
 
 [beatnik-tokenizer.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/beatnik-tokenizer.ipynb) < Beatnik- Tokenizer & little helper to write Beatnik-Code...
 
+[tmka.sh](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/tmka.sh) `this machine kills asciis` is a bash-script to transform Words (*.txt, *.pdf) into Images and Images (*.png, *.jpg, *.bmp etc.) into Words.
+
 ---
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/experimental-informatics/codichte/master)
