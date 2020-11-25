@@ -53,7 +53,7 @@ Auch wenn Künstliche Neuronale Netze in diesem Seminar nicht im Zentrum unserer
 
 [Gertrude-Stein-on-NLP.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/Gertrude-Stein-on-NLP.ipynb) < Tokenizer á la Gertrude Stein
 
-[beatnik-tokenizer.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/beatnik-tokenizer.ipynb) < Beatnik- Tokenizer & little helper to write Beatnik-Code...
+[beatnik-interpreter.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/beatnik-interpreter.ipynb) < Beatnik-Tokenizer and Interpreter to write Beatnik-Code...
 
 [tmka.sh](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/tmka.sh) `this machine kills asciis` < is a bash-script to transform Words (*.txt, *.pdf) into Images and Images (*.png, *.jpg, *.bmp etc.) into Words.
 
