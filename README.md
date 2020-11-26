@@ -59,7 +59,7 @@ Auch wenn Künstliche Neuronale Netze in diesem Seminar nicht im Zentrum unserer
 
 [Stack_Machine_Fontane.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/Stack_Machine_Fontane.ipynb) < Stack Machine Jockel
 
-[Stack_Machine_Poem_Embedding.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/Stack_Machine_Poem_Embedding%20.ipynb)
+[Stack_Machine_Poem_Embedding.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/Stack_Machine_Poem_Embedding%20.ipynb) < Stack Machine Poem Embedding
 
 [tmka.sh](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/tmka.sh) `this machine kills asciis` < is a bash-script to transform Words (*.txt, *.pdf) into Images and Images (*.png, *.jpg, *.bmp etc.) into Words.
 
