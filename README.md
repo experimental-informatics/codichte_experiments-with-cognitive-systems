@@ -49,11 +49,17 @@ Auch wenn Künstliche Neuronale Netze in diesem Seminar nicht im Zentrum unserer
 
 ## Notebooks:
 
+[Sequencing_Python-Intro](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/Sequencing_Python-Intro.ipynb) < Python Introduction into Sequencing
+
 [tristan-tzara.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/tristan-tzara.ipynb) < Cut-Up Machine á la Tristan Tzara
 
 [Gertrude-Stein-on-NLP.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/Gertrude-Stein-on-NLP.ipynb) < Tokenizer á la Gertrude Stein
 
 [beatnik-interpreter.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/beatnik-interpreter.ipynb) < Beatnik-Tokenizer and Interpreter to write Beatnik-Code...
+
+[Stack_Machine_Fontane.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/Stack_Machine_Fontane.ipynb) < Stack Machine Jockel
+
+[Stack_Machine_Poem_Embedding.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/Stack_Machine_Poem_Embedding%20.ipynb)
 
 [tmka.sh](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/tmka.sh) `this machine kills asciis` < is a bash-script to transform Words (*.txt, *.pdf) into Images and Images (*.png, *.jpg, *.bmp etc.) into Words.
 
