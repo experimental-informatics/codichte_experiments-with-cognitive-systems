@@ -16,14 +16,13 @@ Email: g.trogemann@khm.de, c.heck@khm.de, m.kuhn@khm.de
 
 ## Description
 
-Durch Technologien erweitern wir unsere kognitiven Fähigkeiten. Wir versuchen, unsere Erfahrungen, Fähigkeiten und Handlungsweisen in maschinelle kognitive Systeme einzuschreiben. Doch sobald wir sie anwenden, schreiben sie sich in unsere Erfahrungen und damit in uns ein. Im Seminar experimentieren wir mit nichtmenschlicher Kognition und allzu menschlichen Schreibtechniken, mit Möglichkeitsräumen von Texten aus der Bibliothek von Babel und algorithmischen Entscheidungsfindungen durch neuronale Gedankenvektoren und mit Language Hacking, Maschinenpoesie und Poesiemaschinen.
+Through technology we expand our cognitive abilities. We try to inscribe our experiences, abilities and actions into machine cognitive systems. But as soon as we use them, they inscribe themselves into our experiences and thus into us. In the seminar we experiment with non-human cognition and all-too-human writing techniques, with possibility spaces of texts from the Library of Babel and algorithmic decision making through neural thought vectors, and with language hacking, machine poetry and poetry machines.
 
-Im Zentrum des Seminars stehen Buchstaben, Wörter und Texte. Nichts anderes können Künstliche Intelligenzen, nichts anderes sind sie. Das Material, welches sie verarbeiten, sind Zeichen und Texte. Sie selbst sind auch nichts als Zeichen und Texte. Sinn und Bedeutung, Schlussfolgerungen und Konsequenzen, all das, was aus dem Text folgt, also ihre Einbettung in die Welt, gehört aus dieser Perspektive zum
-Kontext.
+The seminar focuses on characters, words and texts. Artificial Intelligences can do nothing else, they are nothing else. The material they process are symbols and texts. They themselves are also nothing but symbols and texts. Sense and meaning, conclusions and consequences, all that follows from the text, i.e. their embedding in the world, belongs to the context from this perspective.
 
-Sowohl die modernistische Poesie als auch die moderne Neurowissenschaft entdeckten Anfang des 20. Jahrhunderts den synaptischen Raum. Die Syntax unserer formalen Techniksprachen (Künstliche Neuronale Netze) schritt somit Hand in Hand mit den frühen poetischen Sprachtechniken und Experimenten in ein neues Jahrtausend.
+Both modernist poetry and modern neuroscience discovered the synaptic space at the beginning of the 20th century. The syntax of our formal technical languages (Artificial Neural Networks) thus entered a new millennium hand in hand with early poetic language techniques and experiments.
 
-Auch wenn Künstliche Neuronale Netze in diesem Seminar nicht im Zentrum unserer Auseinandersetzung stehen, betrachten wir diese – allerdings in einem größeren Zusammenhang – als kognitives System unter anderen kognitiven Systemen. Da wir uns in einzelnen Sessions tiefer in die syntaktischen und semantischen Räume dieser kognitiven Systeme begeben werden, sind Programmierkenntnisse zur Teilnahme am Seminar zwar hilfreich aber nicht erforderlich. 
+Although Artificial Neural Networks are not the focus of our discussion in this seminar, we consider them – albeit in a larger context – as a cognitive system among other cognitive systems. Since we will go deeper into the syntactic and semantic spaces of these cognitive systems in individual sessions, programming skills are helpful but not required to participate in the seminar.
 
 ---
 
