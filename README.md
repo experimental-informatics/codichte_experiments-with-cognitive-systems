@@ -6,11 +6,11 @@ Georg Trogemann, Christian Heck, Mattis Kuhn
 
 Fachseminar
 
-Donnerstag wöchentlich 11:00 –13:00
+Thursday weekly 11:00 -13:00
 
-[Experimentelle Informatik](https://www.khm.de/exMedia_experimentelle_informatik/)
+[Experimental Informatics](https://en.khm.de/exMedia_experimentelle_informatik/)
 
-Kunsthochschule für Medien Köln
+Academy of Media Arts Cologne
 
 Email: g.trogemann@khm.de, c.heck@khm.de, m.kuhn@khm.de
 
