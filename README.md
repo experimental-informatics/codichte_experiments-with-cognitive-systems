@@ -55,6 +55,8 @@ Auch wenn Künstliche Neuronale Netze in diesem Seminar nicht im Zentrum unserer
 
 [Gertrude-Stein-on-NLP.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/Gertrude-Stein-on-NLP.ipynb) < Tokenizer á la Gertrude Stein
 
+[On-the-Road.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/On-the-Road.ipynb) < Digitizing text with OCR, loading text, performing a small analysis on word frequency
+
 [beatnik-interpreter.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/beatnik-interpreter.ipynb) < Beatnik-Tokenizer and Interpreter to write Beatnik-Code...
 
 [Stack_Machine_Fontane.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/Stack_Machine_Fontane.ipynb) < Stack Machine Jockel
