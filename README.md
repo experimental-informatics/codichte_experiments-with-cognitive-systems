@@ -48,7 +48,11 @@ Although Artificial Neural Networks are not the focus of our discussion in this 
 
 ## Notebooks:
 
+[little-helpers-in-jupyter-notebooks.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/little-helpers-in-jupyter-notebooks.ipynb) < Introduction to Jupyter Notebooks (general info, Installation & Help-Functions)
+
 [Sequencing_Python-Intro](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/Sequencing_Python-Intro.ipynb) < Python Introduction into Sequencing
+
+[for-loops_4_texts.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/for-loops_4_texts.ipynb) < Introduction to `for Loops`
 
 [tristan-tzara.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/tristan-tzara.ipynb) < Cut-Up Machine á la Tristan Tzara
 
