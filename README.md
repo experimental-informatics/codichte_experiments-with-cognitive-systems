@@ -54,6 +54,8 @@ Although Artificial Neural Networks are not the focus of our discussion in this 
 
 [for-loops_4_texts.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/for-loops_4_texts.ipynb) < Introduction to `for` Loops
 
+[if-else-elif.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/if-elif-else.ipynb) < Introduction to `if`, `elif` and `else`
+
 [tristan-tzara.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/tristan-tzara.ipynb) < Cut-Up Machine á la Tristan Tzara
 
 [Gertrude-Stein-on-NLP.ipynb](https://github.com/experimental-informatics/codichte_experiments-with-cognitive-systems/blob/master/Gertrude-Stein-on-NLP.ipynb) < Tokenizer á la Gertrude Stein
