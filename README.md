@@ -1,6 +1,6 @@
 Notebooks from the Seminar:
 
-# Codichte - Experimente mit kognitiven Systemen < WS20/21
+# Codichte: experiments with cognitive systems < WS20/21
 
 Georg Trogemann, Christian Heck, Mattis Kuhn
 
@@ -27,6 +27,10 @@ Although Artificial Neural Networks are not the focus of our discussion in this 
 ---
 
 ## Info 
+
+**Documentation of the seminar**
+
+- [Codichte Documentation as Jupyter Book](https://dev.ground-zero.khm.de/codichte/intro.html)
 
 **Seminar Wiki Pages:**
 
