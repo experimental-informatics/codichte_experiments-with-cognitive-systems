@@ -12,8 +12,6 @@ Thursday weekly 11:00 -13:00
 
 Academy of Media Arts Cologne
 
-Email: g.trogemann@khm.de, c.heck@khm.de, m.kuhn@khm.de
-
 ## Description
 
 Through technology we expand our cognitive abilities. We try to inscribe our experiences, abilities and actions into machine cognitive systems. But as soon as we use them, they inscribe themselves into our experiences and thus into us. In the seminar we experiment with non-human cognition and all-too-human writing techniques, with possibility spaces of texts from the Library of Babel and algorithmic decision making through neural thought vectors, and with language hacking, machine poetry and poetry machines.
